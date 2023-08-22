@@ -1,0 +1,66 @@
+07/08/2023
+Alan David Balbuena Zavala
+El dia de hoy trabaje en la creacion de una api para el front de la pagina del restaurante POOT'S, mi equipo me pidio lo que fue que resgistre 
+los siguientes atributos que fueron Nombre, Telefono y correo los cuales se almacenan en una base de datos Mysql. Me falta corregir unos 
+campos que tengo que corregir pero por el dia de hoy tuve un avanze grande.
+localhost:3000/user
+
+08/08/2023
+
+Alan David Balbuena Zavala
+El dia de hoy hice avances en la api cambiando unos metodos y agregando al igual
+hice una vista para chequear si mi api me manda mis datos a una 
+pagina.De igual manera con ayuda del compañero jose Luis y Jesus David realisamos mantenimiento a unas computadoras para 
+ver si funcionaban.
+
+09/08/2023
+Alan David Balbuena Zavala
+
+Hoy como tercer dia hice una vista de un registro para ir viendo si nuestra api esta respondiendo a los cambios que le vamos haciendo, me
+piederon que implementara unas variables de entorno, no lo alcanze terminar por que me surgieron unos errores que se me complicaron.
+chariza0503
+
+10/08/2023
+Alan David Balbuena Zavala
+EL dia de hoy termine de crear los crud, los cuales me sirven para crear, eliminar, 
+actualizar y buscar por id, eso nos llevara a que podamos visualizar los datos. Mi equipo me mando una vista del header donde haremos que recoja los datos la api.
+
+Alan David Balbuena Zavala  11/08/23
+
+
+El dia de hoy hice la conexion de la api ala vista del restaurante donde se podran regristrar los usuarios. Al igual me pidieron que convalide el correo para que no repitan el mismo correo por si quieren registrar a un usuario con el mismo correo.
+
+
+14/08/2023
+
+Alan David Balbuena Zavala
+
+El dia de hoy hize limpieza el codigo y para evitar errores, desple el codigo a gihub para ya ir subiendo mejoras y sea mas rapido y menos complicado. Al igual haciendo pruebas en el codigo para no tener errores en algun momento que se ponga a prueba.
+
+15/08/2023
+
+El dia de hoy conecte la api con el formulario que me proporciono el equipo de trabajo de frond del restaurante hice algunas pruebas para corregir errores que se presentaron, termine la parte de validacion de Nombre, Telefono y Correo.
+
+16/08/2023
+
+Alan David Balbuena Zavala
+
+El dia de hoy termine de realizar la validacion para los correos para que no lleguen a registrarse con el mismo correo y asi evitar algunos problemas con los usuarios. Al igual limpie el codigo de funciones que ya no se utilizaran y asi poder evitar errores. 
+
+17/08/2023
+
+Alan David Balbuena Zavala
+
+El dia de hoy actualize unas mejoras de la api donde me estaba produciendo un error, ya quedo resuelto, al igual desplegue la api en una estancia ec2 de aws de manera local, al igual subi unos avenzes que me mando el equipo de frond a una estancia para hacer algunas pruebas.
+
+18/08/2023
+
+Alan David Balbuena Zavala
+
+El dia de hoy desplegue nuevamente mi api y el frond a aws por que me surgio unos errores en la estancia pasada, hize prueba con la estancia nueva y resultaron efectivas, ya solo me hace falta el equipo de frond me mande el proyecto terminado.
+
+21/07/2023
+
+Alan David Balbuena Zavala
+
+El dia de hoy actualize unas mejoras en la api como añadiendo rate limiting que nos servira para la proteccion de la api y asi no lo puedan tumbar. Al igual actualize la api en la estancia subiendo esas mejoras y de igual en el lado de frond hice actualizaciones.
