@@ -20,6 +20,17 @@ Hoy como tercer dia hice una vista de un registro para ir viendo si nuestra api 
 piederon que implementara unas variables de entorno, no lo alcanze terminar por que me surgieron unos errores que se me complicaron.
 chariza0503
 
+
+Data base 
+tocino
+chariza05
+
+22/08/2023
+
+Alan David Balbuena Zavala
+
+El dia de hoy limpie el codigo de la api, eliminando codigos que ya no se utilizaran y dejando una api limpia, para tener una api en un funcionamiento correcto, el equipo de frond me hizo llegar su parte del frontend para asi poder combinar ambas partes incluyendo sus diseños, con mi funcionamiento por parte del backend y asi mismo poder hacer que el formulario tenga una interaccion con la api.Asi poder subir el frond final a la estancia y asi como la api tambien.
+
 10/08/2023
 Alan David Balbuena Zavala
 EL dia de hoy termine de crear los crud, los cuales me sirven para crear, eliminar, 

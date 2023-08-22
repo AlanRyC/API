@@ -11,7 +11,7 @@ const app = express();
 
 const accountLimiter = rateLimit({
   windowMs: 10 * 60 * 1000, 
-  max: 6, 
+  max: 10, 
   message: "Demasiados intentos, por favor espera 10 minutos.",
 });
 
